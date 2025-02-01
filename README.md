@@ -11,7 +11,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/Huddle-Landing-Page.jpeg)
+![](https://github.com/frontdev-arch/Huddle-landing-page/blob/bc8cef104606d3c026d5c27618275812ae6782d7/Huddle-Landing-Page.jpeg)
 
 ### Links
 
